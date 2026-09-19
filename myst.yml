@@ -13,7 +13,7 @@ project:
     - title: Lecture 2
       children:
         - file: P8149_Lecture_2_MAF_MLE_EM.ipynb
-          title: Allele frequency, likelihood, and EM
+          title: Allele counts, MAF estimation, and genotyping error
         - file: P8149_Lecture_2_HMM_Basics.ipynb
           title: A first HMM
         - file: P8149_Lecture_2_Li_Stephens_HMM.ipynb

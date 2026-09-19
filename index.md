@@ -21,10 +21,10 @@ Short R notebooks connect population-genetic concepts to calculations that can b
 ::::{grid} 1 1 2 3
 :class: p8149-notebook-grid
 
-:::{card} Allele frequency, likelihood, and EM
+:::{card} Allele counts, MAF estimation, and genotyping error
 :link: P8149_Lecture_2_MAF_MLE_EM.ipynb
 
-Move from direct allele counting to likelihood-based estimation, then account for genotyping error with latent genotypes and EM.
+Use allele counting and an HWE likelihood, then add genotyping error with latent genotypes and EM.
 
 +++
 R notebook · Lecture 2
