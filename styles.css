@@ -1,0 +1,69 @@
+:root {
+  --p8149-ink: #182735;
+  --p8149-blue: #24567a;
+  --p8149-sky: #b9d9eb;
+  --p8149-paper: #f7fafc;
+}
+
+.p8149-hero {
+  margin: 0.5rem 0 2.25rem;
+  padding: 2.6rem 2.8rem 2.4rem;
+  border: 1px solid color-mix(in srgb, var(--p8149-blue) 24%, transparent);
+  border-left: 0.38rem solid var(--p8149-blue);
+  border-radius: 0.9rem;
+  background:
+    radial-gradient(circle at 92% 12%, rgba(185, 217, 235, 0.72), transparent 34%),
+    linear-gradient(135deg, #ffffff 0%, var(--p8149-paper) 100%);
+  color: var(--p8149-ink);
+}
+
+.p8149-hero > p:first-child {
+  margin: 0 0 0.9rem;
+  color: var(--p8149-blue);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.p8149-hero h1 {
+  margin: 0 0 0.8rem;
+  color: var(--p8149-ink);
+  font-size: clamp(2.25rem, 6vw, 4.2rem);
+  line-height: 1.02;
+  letter-spacing: -0.04em;
+}
+
+.p8149-hero > p:last-child {
+  max-width: 44rem;
+  margin: 0;
+  font-size: 1.12rem;
+  line-height: 1.65;
+}
+
+.p8149-notebook-grid .card {
+  border-top: 0.22rem solid var(--p8149-sky);
+}
+
+.dark .p8149-hero {
+  border-color: rgba(185, 217, 235, 0.32);
+  border-left-color: var(--p8149-sky);
+  background:
+    radial-gradient(circle at 92% 12%, rgba(36, 86, 122, 0.48), transparent 34%),
+    linear-gradient(135deg, #182735 0%, #20394d 100%);
+  color: #f7fafc;
+}
+
+.dark .p8149-hero h1 {
+  color: #ffffff;
+}
+
+.dark .p8149-hero > p:first-child {
+  color: var(--p8149-sky);
+}
+
+@media (max-width: 640px) {
+  .p8149-hero {
+    padding: 1.8rem 1.5rem 1.7rem;
+  }
+}

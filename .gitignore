@@ -1,0 +1,8 @@
+_build/
+.pixi/
+.jupyter_cache/
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.DS_Store
+

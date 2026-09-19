@@ -1,0 +1,29 @@
+version: 1
+
+project:
+  title: P8149 Human Population Genetics
+  description: Computational vignettes for BIST P8149 Human Population Genetics at Columbia University
+  authors:
+    - name: Gao Wang
+      affiliation: Columbia University
+  github: https://github.com/StatFunGen/P8149_2026_vignettes
+  license: BSD-3-Clause
+  toc:
+    - file: index.md
+    - title: Lecture 2
+      children:
+        - file: P8149_Lecture_2_MAF_MLE_EM.ipynb
+          title: Allele frequency, likelihood, and EM
+        - file: P8149_Lecture_2_Li_Stephens_HMM.ipynb
+          title: Li–Stephens HMM
+
+site:
+  template: book-theme
+  title: P8149 Computational Vignettes
+  options:
+    logo_text: P8149 Vignettes
+    style: styles.css
+    hide_footer_links: false
+  actions:
+    - title: GitHub
+      url: https://github.com/StatFunGen/P8149_2026_vignettes
