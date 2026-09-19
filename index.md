@@ -18,7 +18,7 @@ Short R notebooks connect population-genetic concepts to calculations that can b
 
 ## Lecture 2
 
-::::{grid} 1 1 2 2
+::::{grid} 1 1 2 3
 :class: p8149-notebook-grid
 
 :::{card} Allele frequency, likelihood, and EM
@@ -28,6 +28,15 @@ Move from direct allele counting to likelihood-based estimation, then account fo
 
 +++
 R notebook · Lecture 2
+:::
+
+:::{card} A first hidden Markov model
+:link: P8149_Lecture_2_HMM_Basics.ipynb
+
+Change transition and emission assumptions, then watch how the posterior probabilities respond.
+
++++
+Interactive R notebook · Lecture 2
 :::
 
 :::{card} Copy, switch, and impute with a Li–Stephens HMM

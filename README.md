@@ -2,6 +2,8 @@
 
 Computational vignettes for BIST P8149 Human Population Genetics at Columbia University.
 
+The HMM primer uses interactive Plotly controls that remain active on the static website.
+
 Website
 
 [https://statfungen.github.io/P8149_2026_vignettes/](https://statfungen.github.io/P8149_2026_vignettes/)
