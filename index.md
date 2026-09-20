@@ -24,7 +24,7 @@ Short R notebooks connect population-genetic concepts to calculations that can b
 :::{card} A first EM algorithm
 :link: P8149_Lecture_2_EM_Basics.ipynb
 
-Use ABO phenotypes to estimate allele frequencies when some genotypes are unobserved.
+Use apple weights to learn a two-component Gaussian mixture when variety labels are unobserved.
 
 +++
 R notebook · Lecture 2
