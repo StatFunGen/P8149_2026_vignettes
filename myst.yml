@@ -23,6 +23,5 @@ site:
     logo_text: P8149 Vignettes
     style: styles.css
     hide_footer_links: false
-  actions:
-    - title: GitHub
-      url: https://github.com/StatFunGen/P8149_2026_vignettes
+  parts:
+    navbar_end: navbar-end.md
