@@ -18,8 +18,17 @@ Short R notebooks connect population-genetic concepts to calculations that can b
 
 ## Lecture 2
 
-::::{grid} 1 1 2 3
+::::{grid} 1 1 2 2
 :class: p8149-notebook-grid
+
+:::{card} A first EM algorithm
+:link: P8149_Lecture_2_EM_Basics.ipynb
+
+Use missing coin labels to see why the E step computes probabilities and the M step returns to counting.
+
++++
+R notebook · Lecture 2
+:::
 
 :::{card} Allele counts, MAF estimation, and genotyping error
 :link: P8149_Lecture_2_MAF_MLE_EM.ipynb

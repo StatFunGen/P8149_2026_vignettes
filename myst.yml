@@ -9,6 +9,8 @@ project:
     - file: index.md
     - title: Lecture 2
       children:
+        - file: P8149_Lecture_2_EM_Basics.ipynb
+          title: A first EM
         - file: P8149_Lecture_2_MAF_MLE_EM.ipynb
           title: Allele counts, MAF estimation, and genotyping error
         - file: P8149_Lecture_2_HMM_Basics.ipynb
