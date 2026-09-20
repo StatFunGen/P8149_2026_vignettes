@@ -24,7 +24,7 @@ Short R notebooks connect population-genetic concepts to calculations that can b
 :::{card} A first EM algorithm
 :link: P8149_Lecture_2_EM_Basics.ipynb
 
-Use missing coin labels to see why the E step computes probabilities and the M step returns to counting.
+Use ABO phenotypes to estimate allele frequencies when some genotypes are unobserved.
 
 +++
 R notebook · Lecture 2
