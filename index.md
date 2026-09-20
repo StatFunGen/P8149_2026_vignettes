@@ -24,7 +24,7 @@ Short R notebooks connect population-genetic concepts to calculations that can b
 :::{card} A first EM algorithm
 :link: P8149_Lecture_2_EM_Basics.ipynb
 
-Use apple weights to learn a two-component Gaussian mixture when variety labels are unobserved.
+Learn the E and M steps with two groups and hidden labels.
 
 +++
 R notebook · Lecture 2
