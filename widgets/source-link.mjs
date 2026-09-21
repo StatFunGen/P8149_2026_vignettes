@@ -4,6 +4,8 @@ const sourceFiles = {
   "p8149-lecture-2-maf-mle-em": "P8149_Lecture_2_MAF_MLE_EM.ipynb",
   "p8149-lecture-2-hmm-basics": "P8149_Lecture_2_HMM_Basics.ipynb",
   "p8149-lecture-2-li-stephens-hmm": "P8149_Lecture_2_Li_Stephens_HMM.ipynb",
+  "p8149-lecture-3-local-ibd": "P8149_Lecture_3_Local_IBD.ipynb",
+  "p8149-lecture-3-genome-wide-kinship": "P8149_Lecture_3_Genome_Wide_Kinship.ipynb",
 };
 
 function render({ el }) {

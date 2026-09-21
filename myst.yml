@@ -17,6 +17,12 @@ project:
           title: A first HMM
         - file: P8149_Lecture_2_Li_Stephens_HMM.ipynb
           title: Li–Stephens HMM
+    - title: Lecture 3
+      children:
+        - file: P8149_Lecture_3_Local_IBD.ipynb
+          title: Local IBD from linked markers
+        - file: P8149_Lecture_3_Genome_Wide_Kinship.ipynb
+          title: Genome-wide kinship
 
 site:
   template: book-theme

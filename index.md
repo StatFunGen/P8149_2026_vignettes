@@ -58,8 +58,33 @@ R notebook · Lecture 2
 :::
 ::::
 
+## Lecture 3
+
+::::{grid} 1 1 2 2
+:class: p8149-notebook-grid
+
+:::{card} Local IBD from linked markers
+:link: P8149_Lecture_3_Local_IBD.ipynb
+
+Use a small hidden Markov model to see why a run of matching markers supports a shared ancestral segment.
+
++++
+R notebook · Lecture 3
+:::
+
+:::{card} Genome-wide kinship
+:link: P8149_Lecture_3_Genome_Wide_Kinship.ipynb
+
+Average genotype differences across independent SNPs and recover the expected kinship of unrelated pairs and siblings.
+
++++
+R notebook · Lecture 3
+:::
+
+::::
+
 ## How to use these notebooks
 
-Each vignette starts from one question, derives the basic approach, and finishes with a worked example. Read the narrative first, then run the code from top to bottom. Change one assumption at a time and check which result changes.
+Each vignette starts from one question, identifies the methodological insight, and finishes with a worked example. Read the narrative first, then run the code from top to bottom. Change one assumption at a time and check which result changes.
 
 The site displays saved notebook outputs. Each GitHub Pages build also runs the notebooks in a clean Pixi environment before publishing them.
