@@ -2,7 +2,13 @@ _build/
 .pixi/
 .jupyter_cache/
 .ipynb_checkpoints/
+.virtual_documents/
 .Rhistory
 .RData
 .DS_Store
 
+# Homework 5 stays local until the assignment is released.
+/P8149_Lecture_5_Homework_5_Starter.ipynb
+/data/P8149_Homework_5_Structure_Data.rds
+/data/P8149_Homework_5_Structure_Data.zip
+/data/hapmap_snprelate_ld_pruned.rds

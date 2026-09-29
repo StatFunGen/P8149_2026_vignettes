@@ -21,6 +21,10 @@ project:
       children:
         - file: P8149_Lecture_3_Local_IBD.ipynb
           title: Local IBD from linked markers
+        - file: P8149_Lecture_3_Linkage_LOD.ipynb
+          title: Linkage and LOD scores
+        - file: P8149_Lecture_3_Affected_Sibling_Linkage.ipynb
+          title: Affected siblings and shared DNA
         - file: P8149_Lecture_3_Genome_Wide_Kinship.ipynb
           title: Genome-wide kinship
 

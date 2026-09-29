@@ -72,6 +72,24 @@ Use a small hidden Markov model to see why a run of matching markers supports a 
 R notebook · Lecture 3
 :::
 
+:::{card} Linkage and LOD scores
+:link: P8149_Lecture_3_Linkage_LOD.ipynb
+
+Follow a disease-associated marker through informative meioses and compare linked and unlinked models.
+
++++
+R notebook · Lecture 3
+:::
+
+:::{card} Affected siblings and shared DNA
+:link: P8149_Lecture_3_Affected_Sibling_Linkage.ipynb
+
+Compare IBD sharing among affected siblings with the Mendelian expectation.
+
++++
+R notebook · Lecture 3
+:::
+
 :::{card} Genome-wide kinship
 :link: P8149_Lecture_3_Genome_Wide_Kinship.ipynb
 
