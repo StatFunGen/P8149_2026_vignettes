@@ -101,6 +101,38 @@ R notebook · Lecture 3
 
 ::::
 
+## Lecture 8
+
+::::{grid} 1 1 2 2
+:class: p8149-notebook-grid
+
+:::{card} Drift and genetic diversity
+:link: P8149_Lecture_8_Drift_and_Diversity.ipynb
+
+Follow neutral allele frequencies in small and large populations; compare diversity loss with the Wright–Fisher prediction.
+
++++
+R notebook · Lecture 8
+:::
+
+::::
+
+## Lecture 10
+
+::::{grid} 1 1 2 2
+:class: p8149-notebook-grid
+
+:::{card} Migration, differentiation, and pooled genotypes
+:link: P8149_Lecture_10_Migration_and_Wahlund.ipynb
+
+Follow two populations as they exchange migrants and see why pooling their genotypes can create a heterozygote deficit.
+
++++
+R notebook · Lecture 10
+:::
+
+::::
+
 ## How to use these notebooks
 
 Each vignette starts from one question, identifies the methodological insight, and finishes with a worked example. Read the narrative first, then run the code from top to bottom. Change one assumption at a time and check which result changes.

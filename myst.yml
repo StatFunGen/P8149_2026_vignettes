@@ -27,6 +27,14 @@ project:
           title: Affected siblings and shared DNA
         - file: P8149_Lecture_3_Genome_Wide_Kinship.ipynb
           title: Genome-wide kinship
+    - title: Lecture 8
+      children:
+        - file: P8149_Lecture_8_Drift_and_Diversity.ipynb
+          title: Drift and genetic diversity
+    - title: Lecture 10
+      children:
+        - file: P8149_Lecture_10_Migration_and_Wahlund.ipynb
+          title: Migration, differentiation, and pooled genotypes
 
 site:
   template: book-theme
